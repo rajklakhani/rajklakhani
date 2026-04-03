@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @rajklakhani
+- 👋 Hi, I’m Rajesh Lakhani  
 - 👀 I’m interested in AI/ML and Software Engineering
-- 🌱 I’m currently learning .Net Development
+- 🌱 I’m currently learning AI/ML
 - 💞️ I’m looking to collaborate on technical documentation
-- 📫 How to reach me rajkumarlakhani178@gmail.com
+- 📫 How to reach me lakhanirajkumar178@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Chatting
 
